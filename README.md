@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mohammed Zoubaa
+# 👋 Hey, I'm Ahmed ELKALAI
 
 > **Software Developer | Problem Solver | Tech Enthusiast**
 
@@ -110,8 +110,8 @@ I'm always excited to:
 - 🎯 Exchange knowledge and ideas
 - 🌱 Grow together in the tech community
 
-**📧 Email:** itsmezoubaa@gmail.com
-**💼 LinkedIn:** https://www.linkedin.com/in/zoubaa-mohammed
-**🌐 Portfolio:** https://zoubaax.github.io/zoubaa
+**📧 Email:** elkalaiahmead0@gmail.com
+**💼 LinkedIn:** https://www.linkedin.com/in/ahmad-elkalai/
+**🌐 Portfolio:** ...
 
 ---
